@@ -6,15 +6,10 @@
     <a href="https://www.dti.ulaval.ca">
         <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
     </a>&nbsp;&nbsp;
-    <a href="https://twitter.com/nsxsoft">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>&nbsp;&nbsp;
-    <a href="mailto:nsxsoft@gmail.com">
+    <a href="mailto:christian.bacon@dti.ulaval.ca">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nsxsoft/">
-        <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedIn&logoColor=white" />
-    </a>&nbsp;&nbsp;
+  
     <!--
     <a href="">
         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />

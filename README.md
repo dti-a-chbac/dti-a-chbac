@@ -1,5 +1,6 @@
 
-<h1>IT Systems Engineer & Systems Developer - Open Source & Unix Operating Systems</h1>
+<h1>IT Systems Engineer & Systems Developer </h1>
+<h3><i>Open Source & Unix Operating Systems</i></h3>
 <br>
 <div align='left' style='padding:1em;'>
     <a href="https://www.dti.ulaval.ca">

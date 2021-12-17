@@ -9,12 +9,6 @@
     <a href="mailto:christian.bacon@dti.ulaval.ca">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>&nbsp;&nbsp;
-  
-    <!--
-    <a href="">
-        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-    </a>&nbsp;&nbsp;
-    --!>
 </div>
 <div align='left'>
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>💻 Automation </h2>

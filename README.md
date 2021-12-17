@@ -3,12 +3,7 @@
 <h3><i>Open Source & Unix Operating Systems</i></h3>
 <br>
 <div align='left' style='padding:1em;'>
-    <a href="https://www.dti.ulaval.ca">
-        <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
-    </a>&nbsp;&nbsp;
-    <a href="mailto:christian.bacon@dti.ulaval.ca">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>&nbsp;&nbsp;
+    
 </div>
 <div align='left'>
         <h2 style='font-family: "Roboto", sans-serif; display:flex;align-items:center;'>💻 Automation </h2>

@@ -1,5 +1,5 @@
 
-<h1>Analyste de l'informatique | Développeur Systèmes | Spécialiste Systèmes Unix</h1>
+<h1> Spécialiste Systèmes Unix | Développeur Systèmes</h1>
 <h3><i>Open Source & Unix Operating Systems</i></h3>
 <br>
 <div align='left' style='padding:1em;'>
